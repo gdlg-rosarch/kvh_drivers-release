@@ -1,12 +1,12 @@
 <package>
   <name>kvh</name>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <description>A driver for the KVH DSP-3000 single-axis Fiber Optic Gyroscope.</description>
   <maintainer email="geoffrey.viola@asirobots.com">Geoffrey Viola</maintainer>
 
   <license>BSD</license>
 
-  <url type="website">None</url>
+  <url type="website">http://www.ros.org/wiki/kvh</url>
 
   <author>Jeff Schmidt</author>
   <author>Geoffrey Viola</author>
